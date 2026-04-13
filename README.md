@@ -1,5 +1,8 @@
 # 🎟️ RCB Ticket Monitor — Playwright-based Auto-Alert Scripts
 
+> Created by **mannkavishwas**
+A script to monitor and alert when tickets become available at M. Chinnaswamy Stadium.
+
 Automatically watch the [RCB ticket page](https://shop.royalchallengers.com/ticket) and **alert you the instant match tickets go live** — with a loud beep, a desktop notification, and your browser opening automatically.
 
 Built for high-demand pages that sell out in seconds before you can manually refresh.
@@ -267,3 +270,18 @@ Your provider will give you a username, password, and a list of `IP:PORT` pairs 
 ## Legal / Ethical Note
 
 These scripts are intended for personal use — to monitor public pages for availability. Always check a website's Terms of Service before running automated monitoring tools against it.
+
+
+---
+
+## 👤 Author
+
+**mannkavishwas**
+
+- GitHub: https://github.com/VishwasMiglani  
+- Twitter: https://x.com/mannkaVishwas  
+- LinkedIn: https://www.linkedin.com/in/mannkavishwas/  
+
+---
+
+⚠️ If you use or modify this project, please give proper credit.

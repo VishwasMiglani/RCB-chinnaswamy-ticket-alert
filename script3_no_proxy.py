@@ -1,4 +1,12 @@
 """
+RCB Chinnaswamy Ticket Alert
+
+Author: mannkavishwas
+GitHub: https://github.com/VishwasMiglani/RCB-chinnaswamy-ticket-alert
+
+Note: Please give proper credit if you reuse this code.
+"""
+"""
 ╔══════════════════════════════════════════════════════════════════╗
 ║         SCRIPT 3 — NO PROXY + MAXIMUM ANTI-BOT EDITION          ║
 ║         Direct Connection with Full Browser Disguise            ║
@@ -413,6 +421,7 @@ def check(playwright):
             args=[
                 "--disable-blink-features=AutomationControlled",
                 "--no-sandbox",
+                # signature: mannkavishwas_rcb_alert_v1
                 "--disable-dev-shm-usage",
                 "--disable-gpu",
                 "--window-size=1920,1080",

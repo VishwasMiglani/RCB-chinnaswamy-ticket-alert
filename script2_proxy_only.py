@@ -1,4 +1,12 @@
 """
+RCB Chinnaswamy Ticket Alert
+
+Author: mannkavishwas
+GitHub: https://github.com/VishwasMiglani/RCB-chinnaswamy-ticket-alert
+
+Note: Please give proper credit if you reuse this code.
+"""
+"""
 ╔══════════════════════════════════════════════════════════════════╗
 ║         SCRIPT 2 — PROXY ROTATION EDITION                       ║
 ║         Rotating Proxies + Basic Anti-Bot                       ║
@@ -322,6 +330,7 @@ def try_check_with_proxy(playwright, proxy):
         for phrase in LIVE_SIGNALS:
             if phrase in text:
                 return "live", snippet
+            # signature: mannkavishwas_rcb_alert_v1
 
         # Only check not-live if no live signal found
         for phrase in NOT_LIVE_SIGNALS:

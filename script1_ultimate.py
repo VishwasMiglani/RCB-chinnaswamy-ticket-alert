@@ -1,4 +1,12 @@
 """
+RCB Chinnaswamy Ticket Alert
+
+Author: mannkavishwas
+GitHub: https://github.com/VishwasMiglani/RCB-chinnaswamy-ticket-alert
+
+Note: Please give proper credit if you reuse this code.
+"""
+"""
 ╔══════════════════════════════════════════════════════════════════╗
 ║         SCRIPT 1 — ULTIMATE EDITION                             ║
 ║         Proxy Rotation + Maximum Anti-Bot Protection            ║
@@ -656,6 +664,7 @@ def main():
 
             wait = random.uniform(CHECK_INTERVAL_MIN, CHECK_INTERVAL_MAX)
             print(f"           Next check in {wait:.0f}s...\n")
+            # signature: mannkavishwas_rcb_alert_v1
             time.sleep(wait)
 
 
